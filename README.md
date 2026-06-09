@@ -7,7 +7,7 @@
 Construyo APIs, automatizaciones y agentes de IA con enfoque en sistemas seguros, escalables y listos para produccion.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elkin%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-elkinlrc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elkinlrc)
+[![GitHub](https://img.shields.io/badge/GitHub-spirock-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spirock)
 [![Python](https://img.shields.io/badge/Python-Backend%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
@@ -56,11 +56,19 @@ class ElkinRodriguez:
 
 ## Proyectos Destacados
 
+### SML - Suricata Machine Learning
+
+Generador automatico de reglas para Suricata con Machine Learning. Este proyecto analiza eventos de red desde `eve.json`, detecta patrones sospechosos mediante modelos de anomalias y genera reglas IDS/IPS optimizadas para mejorar la deteccion de amenazas y reducir falsos positivos.
+
+Stack principal: `Suricata`, `FastAPI`, `Python`, `Scikit-Learn`, `MongoDB/PostgreSQL`, `Docker`, `Scapy` y `Tshark`.
+
+[Ver repositorio](https://github.com/spirock/sml)
+
 ### OSHunter
 
 Herramienta educativa en Bash para escaneo de vulnerabilidades en redes locales, orientada a aprendizaje de hacking etico y analisis basico de seguridad.
 
-[Ver repositorio](https://github.com/elkinlrc/OSHunter)
+[Ver repositorio](https://github.com/spirock/OSHunter)
 
 ### Portal Administrativo IpsProhVip
 
@@ -70,9 +78,9 @@ Sistema administrativo para servicios de salud ambulatorios, enfocado en gestion
 
 <div align="center">
 
-![Elkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=elkinlrc&show_icons=true&theme=tokyonight&hide_border=true)
+![Elkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=spirock&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkinlrc&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirock&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
